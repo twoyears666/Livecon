@@ -1,7 +1,3 @@
-# LiveView
+# Livecon
 
-This is a demo app that uses IOKit (libusb, libvnc) to interact with USB camera on a jailbroken iPhone
-
-More details in [the blog post](http://danylokos.github.io/0x05).
-
-![iPhone USB Camera setup](./iphone-usb-camera.jpg)
+This is based on a demo app that uses IOKit (libusb, libvnc) to interact with USB camera on a jailbroken iPhone for a uvc supported monicon on ios/iPadOS16（witch dident get uvc offical supported
